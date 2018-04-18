@@ -1,0 +1,28 @@
+{
+  "name": "zsmarter-pdfutil",
+  "version": "0.1.1",
+  "description": "download open fdf",
+  "cordova": {
+    "id": "zsmarter-pdfutil",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://106.2.164.79:35890/plugin/zsmarter-pdfutil"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://http://106.2.164.79:35890/plugin/zsmarter-pdfutil"
+}
